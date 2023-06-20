@@ -6,6 +6,7 @@
     <title>Document</title>
 </head>
 <body>
+    <?php include "./service/connection.php"; ?>
     
 </body>
 </html>

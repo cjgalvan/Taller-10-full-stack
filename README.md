@@ -14,3 +14,6 @@ Básico - Grupo 1 <p>
 <h2> Punto 5-6-7:</h2>
 <h3> 5 - Base de Datos </h3>
 <image src="./public/images/basededatos.png" alt="mysql">
+<h3> 6 - Conexión Bases de Datos </h3>
+<image src="./public/images/conexion.png" alt="connection">
+
