@@ -16,4 +16,5 @@ Básico - Grupo 1 <p>
 <image src="./public/images/basededatos.png" alt="mysql">
 <h3> 6 - Conexión Bases de Datos </h3>
 <image src="./public/images/conexion.png" alt="connection">
-
+<h3> 7 - Muestra de datos en Pantalla
+<image src="./public/images/bd.png" alt="base_datos">

@@ -6,6 +6,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="./styles/general-styles.css">
   <link rel="stylesheet" href="./styles/menu-styles.css"> 
+
+
   <title>Taller 10</title>
 </head>
 <body> 
